@@ -201,7 +201,7 @@ make clean all
 
 - 最终可对原字体进行缓加载，**先行加载压缩后的字体**
 
-> 详细信息可前往 [虹墨空间站](https://www.imaegoo.com/2020/chinese-font-compress/) 查看原文
+> 详细信息可前往 [虹墨空间站](https://www.imaegoo.com/2020/chinese-font-compress/) 查看原文。
 
 </details>
 
